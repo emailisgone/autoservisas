@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30503.244
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Autoservisas_P3PL1_API", "Autoservisas_P3PL1_API\Autoservisas_P3PL1_API.csproj", "{2B725CCC-1537-4965-B7B6-A8CCBC52F155}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2B725CCC-1537-4965-B7B6-A8CCBC52F155}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2B725CCC-1537-4965-B7B6-A8CCBC52F155}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2B725CCC-1537-4965-B7B6-A8CCBC52F155}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2B725CCC-1537-4965-B7B6-A8CCBC52F155}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1F12A352-38A3-4006-BD91-B547D62C849C}
+	EndGlobalSection
+EndGlobal
